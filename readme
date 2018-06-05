@@ -1,0 +1,2 @@
+cd /home/sumit/Downloads/utilities/spark-1.5.2-bin-hadoop2.6/bin
+./spark-submit --class main.scala.SimpleApp ~/workspace/scalaScripts/target/scala-2.11/simple-project_2.11-1.0.jar
